@@ -81,15 +81,5 @@
     "react-dom": {
       "optional": true
     }
-  },
-  "pnpm": {
-    "overrides": {
-      "vite": "6.3.5"
-    }
-  },
-  "description": "This is a code bundle for Minimalist Note-Taking App. The original project is available at https://www.figma.com/design/pJjPBd6PPVyW8MQdKEDOz0/Minimalist-Note-Taking-App.",
-  "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
